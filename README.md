@@ -5,28 +5,28 @@
 - The result is an interactive and user-friendly dashboard that allows users to explore data and make data-driven decisions.
 
 ## Table of Contents
-1.[Technologies and Domain](#Technologies-and-Domain)
-2.[Project Overview](Project-Overview)
-3.[Key Features](#Key-Features)
-4.[Getting Started](#Getting-Started)
-5.[Data Extraction](#Data-Extraction)
-6.[Data Transformation](#Data-Transformation)
-7.[Database Insertion](#Database-Insertion)
-8.[Dashboard Creation](#Dashboard-Creation)
-9.[Data Retrieval](#Data-Retrieval)
-10.[Deployment](#deployment)
-11.[Results](#results)
-12.[Business Insights](#business-insights)
-13.[Contributing](#contributing)
-14.[License](#license)
-15.[Author](#author)
+1.[Technologies and Domain](#Technologies-and-Domain)  
+2.[Project Overview](Project-Overview)  
+3.[Key Features](#Key-Features)  
+4.[Getting Started](#Getting-Started)  
+5.[Data Extraction](#Data-Extraction)  
+6.[Data Transformation](#Data-Transformation)  
+7.[Database Insertion](#Database-Insertion)  
+8.[Dashboard Creation](#Dashboard-Creation)  
+9.[Data Retrieval](#Data-Retrieval)  
+10.[Deployment](#deployment)  
+11.[Results](#results)  
+12.[Business Insights](#business-insights)  
+13.[Contributing](#contributing)  
+14.[License](#license)  
+15.[Author](#author)  
 
 ## Technologies and Domain
-**Data Extraction:** Github Cloning
-**Data Processing:** Python, Pandas
-**Database:** MySQL, mysql-connector-python
-**Dashboard:** Streamlit, Plotly
-**Domain:** Fintech
+- **Data Extraction:** Github Cloning
+- **Data Processing:** Python, Pandas
+- **Database:** MySQL, mysql-connector-python
+- **Dashboard:** Streamlit, Plotly
+- **Domain:** Fintech
 
 ## Project Overview
 - The Phonepe Pulse Data Visualization and Exploration project aims to extract data from the Phonepe Pulse GitHub repository, transform and process this data, insert it into a MySQL database, and create a live geo visualization dashboard using Streamlit and Plotly. 
@@ -131,13 +131,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License.
 
 ## Author
-Raghavendran S, 
-
-Aspiring Data Scientist, 
-
-[Linkedin](https://www.linkedin.com/in/raghavendransundararajan/), 
-
-raghavendranhp@gmail.com, 
-
+Raghavendran S,  
+Aspiring Data Scientist,  
+Linkedin:[View Profile](https://www.linkedin.com/in/raghavendransundararajan/) 
+raghavendranhp@gmail.com,  
 Happy Analyzing!
 
