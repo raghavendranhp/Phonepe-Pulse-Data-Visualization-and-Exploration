@@ -1,0 +1,15 @@
+pandas
+os
+json
+mysql.connector
+sqlalchemy
+locale
+streamlit
+folium
+streamlit_folium
+geopandas
+warnings
+plotly.express
+plotly.graph_objects
+plotly.figure_factory
+statsmodels.api
