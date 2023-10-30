@@ -133,7 +133,7 @@ This project is licensed under the MIT License.
 ## Author
 Raghavendran S,  
 Aspiring Data Scientist,  
-Linkedin:[View Profile](https://www.linkedin.com/in/raghavendransundararajan/) 
+Linkedin:[View Profile](https://www.linkedin.com/in/raghavendransundararajan/),  
 raghavendranhp@gmail.com,  
 Happy Analyzing!
 
